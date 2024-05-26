@@ -314,3 +314,5 @@ D:\Projects\DuendeIdentityServer\src\IdentityServerAspNetIdentity\obj\Debug\net8
 D:\Projects\DuendeIdentityServer\src\IdentityServerAspNetIdentity\obj\Debug\net8.0\IdentityServerAspNetIdentity.pdb
 D:\Projects\DuendeIdentityServer\src\IdentityServerAspNetIdentity\obj\Debug\net8.0\IdentityServerAspNetIdentity.genruntimeconfig.cache
 D:\Projects\DuendeIdentityServer\src\IdentityServerAspNetIdentity\obj\Debug\net8.0\ref\IdentityServerAspNetIdentity.dll
+D:\Projects\DuendeIdentityServer\src\IdentityServerAspNetIdentity\bin\Debug\net8.0\keys\is-signing-key-170223839AD3ED63CA5407861B6DFE5A.json
+D:\Projects\DuendeIdentityServer\src\IdentityServerAspNetIdentity\obj\Debug\net8.0\IdentityServerAspNetIdentity.sourcelink.json

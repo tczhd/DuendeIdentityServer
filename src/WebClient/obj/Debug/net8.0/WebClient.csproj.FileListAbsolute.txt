@@ -78,3 +78,4 @@ D:\Projects\DuendeIdentityServer\src\WebClient\obj\Debug\net8.0\refint\WebClient
 D:\Projects\DuendeIdentityServer\src\WebClient\obj\Debug\net8.0\WebClient.pdb
 D:\Projects\DuendeIdentityServer\src\WebClient\obj\Debug\net8.0\WebClient.genruntimeconfig.cache
 D:\Projects\DuendeIdentityServer\src\WebClient\obj\Debug\net8.0\ref\WebClient.dll
+D:\Projects\DuendeIdentityServer\src\WebClient\obj\Debug\net8.0\WebClient.sourcelink.json

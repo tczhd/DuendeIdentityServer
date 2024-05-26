@@ -28,6 +28,17 @@ builder.Services.AddAuthorization(options =>
     });
 });
 
+builder.Services.AddCors(options =>
+{
+    // this defines a CORS policy called "default"
+    options.AddPolicy("default", policy =>
+    {
+        policy.WithOrigins("https://localhost:5003")
+            .AllowAnyHeader()
+            .AllowAnyMethod();
+    });
+});
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
@@ -46,6 +57,7 @@ app.UseAuthentication();
 app.UseAuthorization();
 
 app.UseHttpsRedirection();
+app.UseCors("default");
 
 app.UseEndpoints(endpoints =>
 {

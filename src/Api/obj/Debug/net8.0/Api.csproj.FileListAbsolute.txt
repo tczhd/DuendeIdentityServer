@@ -80,3 +80,4 @@ D:\Projects\DuendeIdentityServer\src\Api\obj\Debug\net8.0\refint\Api.dll
 D:\Projects\DuendeIdentityServer\src\Api\obj\Debug\net8.0\Api.pdb
 D:\Projects\DuendeIdentityServer\src\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
 D:\Projects\DuendeIdentityServer\src\Api\obj\Debug\net8.0\ref\Api.dll
+D:\Projects\DuendeIdentityServer\src\Api\obj\Debug\net8.0\Api.sourcelink.json
